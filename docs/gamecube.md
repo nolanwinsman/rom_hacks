@@ -19,5 +19,5 @@ Link: [https://github.com/DOL-Translations/lupin-III](https://github.com/DOL-Tra
 
 ### Naruto - Gekitou Ninja Taisen! 4 Six Patches of Pain Japanese to English
 Filename: Naruto - Gekitou Ninja Taisen! 4 (Japan) [English Translated].iso'
-Link: https://github.com/NicholasMoser/Six-Patches-Of-Pain
+Link: [https://github.com/NicholasMoser/Six-Patches-Of-Pain](https://github.com/NicholasMoser/Six-Patches-Of-Pain)
 		
