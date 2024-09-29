@@ -1,4 +1,4 @@
-# rom_hacks
+# Rom Hacks
 Documentation for all the rom hacks I find interesting.
 
 
